@@ -1,0 +1,5 @@
+arroz,4,300
+papas,5,200
+alberjas,1,250
+maiz,2,100
+milanesa,4,25
